@@ -1,0 +1,20 @@
+ [INFO][com.freerdp.gdi] - Local framebuffer format  PIXEL_FORMAT_BGRX32
+ [INFO][com.freerdp.gdi] - Remote framebuffer format PIXEL_FORMAT_BGRA32
+ [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel rdpgfx
+ [ERROR][com.freerdp.utils] - Caught signal 'Terminated' [15]
+
+
+
+
+
+
+
+
+
+
+ [ERROR][com.freerdp.utils] - 10: /usr/bin/xfreerdp(+0x73a5) [0x555f009563a5]
+
+
+
+ [ERROR][com.freerdp.utils] - 13: /usr/bin/xfreerdp(_start+0x21) [0x555f00956431]
+

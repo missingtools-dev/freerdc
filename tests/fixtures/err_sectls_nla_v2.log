@@ -1,0 +1,4 @@
+Password: [18:47:28:621]  [WARN][com.freerdp.core.nego] - Error: HYBRID_REQUIRED_BY_SERVER
+ [ERROR][com.freerdp.core.nego] - Protocol Security Negotiation Failure
+ [ERROR][com.freerdp.core] - rdp_client_connect:freerdp_set_last_error_ex ERRCONNECT_SECURITY_NEGO_CONNECT_FAILED [0x0002000C]
+ [ERROR][com.freerdp.core.connection] - Error: protocol security negotiation or connection failure

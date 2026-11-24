@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+
+# Build output
+build/
+build-native/
+dist/
+dist-docker/
+dist-native/
+*.spec
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store

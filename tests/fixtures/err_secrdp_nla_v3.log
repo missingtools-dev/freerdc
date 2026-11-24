@@ -1,0 +1,5 @@
+ [ERROR][com.freerdp.core.transport] - [transport_read_layer]: BIO_read returned a system error 104: Connection reset by peer
+ [ERROR][com.freerdp.core] - [transport_read_layer]: ERRCONNECT_CONNECT_TRANSPORT_FAILED [0x0002000D]
+ [ERROR][com.freerdp.core.transport] - [transport_read_layer]: BIO_read returned a system error 104: Connection reset by peer
+ [ERROR][com.freerdp.core] - [transport_read_layer]: ERRCONNECT_CONNECT_TRANSPORT_FAILED [0x0002000D]
+ [ERROR][com.freerdp.core] - [freerdp_connect]: freerdp_post_connect failed

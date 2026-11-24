@@ -1,0 +1,22 @@
+[16:24:05:772] [25158:00006247] [ERROR][com.winpr.sspi.Kerberos] - [kerberos_AcquireCredentialsHandleA]: krb5_parse_name (Configuration file does not specify default realm [-1765328160])
+[16:24:05:772] [25158:00006247] [ERROR][com.winpr.sspi.Kerberos] - [kerberos_AcquireCredentialsHandleA]: krb5_parse_name (Configuration file does not specify default realm [-1765328160])
+[16:24:05:786] [25158:00006247] [WARN][com.freerdp.core.connection] - [rdp_client_connect_auto_detect]: expected messageChannelId=1008, got 1003
+[16:24:05:786] [25158:00006247] [WARN][com.freerdp.core.license] - [license_read_binary_blob_data]: license binary blob::type BB_ERROR_BLOB, length=0, skipping.
+[16:24:05:849] [25158:00006247] [WARN][com.freerdp.core.connection] - [rdp_client_connect_auto_detect]: expected messageChannelId=1008, got 1003
+[16:24:05:859] [25158:00006247] [INFO][com.freerdp.gdi] - [gdi_init_ex]: Local framebuffer format  PIXEL_FORMAT_BGRX32
+[16:24:05:859] [25158:00006247] [INFO][com.freerdp.gdi] - [gdi_init_ex]: Remote framebuffer format PIXEL_FORMAT_BGRA32
+[16:24:05:873] [25158:00006247] [INFO][com.freerdp.channels.rdpsnd.client] - [rdpsnd_load_device_plugin]: [static] Loaded fake backend for rdpsnd
+[16:24:05:874] [25158:00006247] [INFO][com.freerdp.channels.drdynvc.client] - [dvcman_load_addin]: Loading Dynamic Virtual Channel ainput
+[16:24:05:874] [25158:00006247] [INFO][com.freerdp.channels.drdynvc.client] - [dvcman_load_addin]: Loading Dynamic Virtual Channel rdpgfx
+[16:24:05:874] [25158:00006247] [INFO][com.freerdp.channels.drdynvc.client] - [dvcman_load_addin]: Loading Dynamic Virtual Channel disp
+[16:24:05:874] [25158:00006247] [INFO][com.freerdp.channels.drdynvc.client] - [dvcman_load_addin]: Loading Dynamic Virtual Channel rdpsnd
+[16:24:06:156] [25158:0000626c] [INFO][com.freerdp.channels.rdpsnd.client] - [rdpsnd_load_device_plugin]: [dynamic] Loaded fake backend for rdpsnd
+[16:24:07:016] [25158:0000626c] [INFO][com.freerdp.channels.rdpsnd.client] - [rdpsnd_load_device_plugin]: [dynamic] Loaded fake backend for rdpsnd
+[16:24:07:440] [25158:0000626c] [WARN][com.freerdp.channels.drdynvc.client] - [check_open_close_receive]: {Microsoft::Windows::RDS::DisplayControl:10} OnOpen=(nil), OnClose=0x7f94e2f77190
+[16:24:15:681] [25158:00006246] [ERROR][com.freerdp.utils.signal] - [term_handler]: Caught signal 'Terminated' [15]
+[16:24:15:681] [25158:00006246] [INFO][com.freerdp.core] - [sig_abort_connect]: Signal Terminated [15], terminating session 0x55f3a4adce80
+[16:24:15:681] [25158:00006246] [ERROR][com.freerdp.core] - [freerdp_abort_connect_context]: ERRCONNECT_CONNECT_CANCELLED [0x0002000B]
+[16:24:15:681] [25158:00006246] [INFO][com.freerdp.client.common.cliprdr.file] - [fuse_abort]: signal Terminated [15] aborting session
+[16:24:15:682] [25158:00006247] [INFO][com.freerdp.client.common] - [client_auto_reconnect_ex]: Network disconnect!
+fuse: writing device: Bad file descriptor
+[16:24:15:686] [25158:0000626c] [WARN][com.freerdp.channels.drdynvc.client] - [check_open_close_receive]: {Microsoft::Windows::RDS::DisplayControl:10} OnOpen=(nil), OnClose=0x7f94e2f77190

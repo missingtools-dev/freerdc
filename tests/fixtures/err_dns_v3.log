@@ -1,0 +1,2 @@
+ [ERROR][com.freerdp.core] - [freerdp_tcp_is_hostname_resolvable]: ERRCONNECT_DNS_NAME_NOT_FOUND [0x00020005]
+ [ERROR][com.freerdp.core.nego] - [nego_connect]: Failed to connect

@@ -1,0 +1,3 @@
+ [ERROR][com.freerdp.core] - [freerdp_tcp_default_connect]: ERRCONNECT_CONNECT_FAILED [0x00020006]
+ [ERROR][com.freerdp.core] - [freerdp_tcp_default_connect]: failed to connect to 192.0.2.1
+ [ERROR][com.freerdp.core.nego] - [nego_connect]: Failed to connect

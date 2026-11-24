@@ -1,0 +1,5 @@
+ [INFO][com.freerdp.client.x11] - No user name set. - Using login name: someuser
+ [ERROR][com.freerdp.client.common] - GetLine returned No such file or directory [2]
+ [ERROR][com.freerdp.core] - nla_client_init:freerdp_set_last_error_ex ERRCONNECT_NO_OR_MISSING_CREDENTIALS [0x0002001B]
+ [ERROR][com.freerdp.core.transport] - NLA begin failed
+Domain:   

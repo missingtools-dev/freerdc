@@ -1,0 +1,5 @@
+ [ERROR][com.freerdp.core.transport] - [transport_default_write]: BIO_should_retry returned a system error 32: Broken pipe
+ [ERROR][com.freerdp.core] - [transport_default_write]: ERRCONNECT_CONNECT_TRANSPORT_FAILED [0x0002000D]
+ [ERROR][com.freerdp.core.transport] - [transport_default_write]: BIO_should_retry returned a system error 32: Broken pipe
+ [ERROR][com.freerdp.core] - [transport_default_write]: ERRCONNECT_CONNECT_TRANSPORT_FAILED [0x0002000D]
+ [ERROR][com.freerdp.core] - [freerdp_connect]: freerdp_post_connect failed

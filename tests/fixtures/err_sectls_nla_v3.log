@@ -1,0 +1,4 @@
+ [WARN][com.freerdp.core.nego] - [nego_process_negotiation_failure]: Error: HYBRID_REQUIRED_BY_SERVER
+ [ERROR][com.freerdp.core.nego] - [nego_connect]: Protocol Security Negotiation Failure
+ [ERROR][com.freerdp.core] - [rdp_client_connect]: ERRCONNECT_SECURITY_NEGO_CONNECT_FAILED [0x0002000C]
+ [ERROR][com.freerdp.core.connection] - [rdp_client_connect]: Error: protocol security negotiation or connection failure

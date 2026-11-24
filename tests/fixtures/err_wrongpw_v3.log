@@ -1,0 +1,6 @@
+ [ERROR][com.winpr.sspi.Kerberos] - [kerberos_AcquireCredentialsHandleA]: krb5_parse_name (Configuration file does not specify default realm [-1765328160])
+ [ERROR][com.winpr.sspi.Kerberos] - [kerberos_AcquireCredentialsHandleA]: krb5_parse_name (Configuration file does not specify default realm [-1765328160])
+ [ERROR][com.freerdp.core] - [nla_recv_pdu]: ERRCONNECT_LOGON_FAILURE [0x00020014]
+ [ERROR][com.freerdp.core.rdp] - [rdp_recv_callback_int][0x5637ec469e80]: CONNECTION_STATE_NLA - nla_recv_pdu() fail
+ [ERROR][com.freerdp.core.rdp] - [rdp_recv_callback_int][0x5637ec469e80]: CONNECTION_STATE_NLA status STATE_RUN_FAILED [-1]
+ [ERROR][com.freerdp.core.transport] - [transport_check_fds]: transport_check_fds: transport->ReceiveCallback() - STATE_RUN_FAILED [-1]

@@ -1,0 +1,6 @@
+ [INFO][com.freerdp.gdi] - Local framebuffer format  PIXEL_FORMAT_BGRX32
+ [INFO][com.freerdp.gdi] - Remote framebuffer format PIXEL_FORMAT_BGRA32
+ [INFO][com.freerdp.channels.drdynvc.client] - Loading Dynamic Virtual Channel rdpgfx
+ [INFO][com.freerdp.core] - ERRINFO_DISCONNECTED_BY_OTHER_CONNECTION (0x00000005):Another user connected to the server, forcing the disconnection of the current connection.
+ [ERROR][com.freerdp.core] - rdp_set_error_info:freerdp_set_last_error_ex ERRINFO_DISCONNECTED_BY_OTHER_CONNECTION [0x00010005]
+rc=5

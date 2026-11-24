@@ -1,0 +1,4 @@
+Password: [16:24:50:021] [25414:25415] [WARN][com.freerdp.core.nla] - SPNEGO received NTSTATUS: STATUS_LOGON_FAILURE [0xC000006D] from server
+[16:24:50:021] [25414:25415] [ERROR][com.freerdp.core] - nla_recv_pdu:freerdp_set_last_error_ex ERRCONNECT_LOGON_FAILURE [0x00020014]
+[16:24:50:021] [25414:25415] [ERROR][com.freerdp.core.rdp] - rdp_recv_callback: CONNECTION_STATE_NLA - nla_recv_pdu() fail
+[16:24:50:021] [25414:25415] [ERROR][com.freerdp.core.transport] - transport_check_fds: transport->ReceiveCallback() - -1
